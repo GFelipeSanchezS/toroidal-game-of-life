@@ -53,3 +53,7 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Toroidal Game of Life build
+gameoflife
+build/
